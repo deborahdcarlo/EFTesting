@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTesting.UnitTests", "EFTesting.UnitTests\EFTesting.UnitTests.csproj", "{48A4EF92-8FF4-40B8-9604-2112C20B2E58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTesting.IntegrationTests", "EFTesting.IntegrationTests\EFTesting.IntegrationTests.csproj", "{8D1E5151-A5AD-4BB7-A80B-22F8C43F9D27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{48A4EF92-8FF4-40B8-9604-2112C20B2E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A4EF92-8FF4-40B8-9604-2112C20B2E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A4EF92-8FF4-40B8-9604-2112C20B2E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1E5151-A5AD-4BB7-A80B-22F8C43F9D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1E5151-A5AD-4BB7-A80B-22F8C43F9D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1E5151-A5AD-4BB7-A80B-22F8C43F9D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1E5151-A5AD-4BB7-A80B-22F8C43F9D27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
